@@ -1,0 +1,10 @@
+Keymate Migrator
+Copyright 2025-2026 Keymate Authors
+
+This project includes software developed at Keymate (https://github.com/keymate-io/keymate-migrator).
+
+It implements well-known architectural patterns. No proprietary or patented algorithms are intentionally included to the best of our knowledge.
+
+This product contains software from the Quarkus Project (https://quarkus.io/), licensed under the Apache License 2.0.
+
+This product contains portions of Netty (https://netty.io/) licensed under the Apache License 2.0.
